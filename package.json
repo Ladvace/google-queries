@@ -1,6 +1,6 @@
 {
   "name": "google-queries",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "get the autocomplete results and trends from google",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "queries"
   ],
   "author": "Ladvace",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.27.2"
   },

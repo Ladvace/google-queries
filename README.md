@@ -1,4 +1,5 @@
-# google-queries
+# Google-queries
+## ⚠️ This is not an official package made/affiliated with google
 
 `getQueries()` Allows you to get the autocomplete results given a string, language (optional) and a country (optional)
 
